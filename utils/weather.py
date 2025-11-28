@@ -13,4 +13,4 @@ def get_weather(city, api):
     return response.json()
 
 def main():
-    
+    get_weather("mumbai")
