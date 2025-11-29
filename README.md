@@ -1,4 +1,13 @@
 # Weather CLI Project
 
 ![alt text](image.png)
-A simple Python command-line tool that fetches real-time weather data using an API.
+![alt text](image-1.png)
+
+# What I built:
+
+• A Weather CLI tool → fetches real-time weather using OpenWeather API
+• A minimal Flask web UI → enter city → see temperature, humidity, description
+• Added error handling & structured folder setup
+• Wrote test cases for the CLI using pytest
+
+#
