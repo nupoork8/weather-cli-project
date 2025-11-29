@@ -12,6 +12,9 @@ This project helped me understand API calls, CLI arguments, Flask routing, and b
 
 ---
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+
 ## 🚀 Features
 
 ### ✅ **1. Weather CLI Tool**
@@ -38,8 +41,6 @@ This project helped me understand API calls, CLI arguments, Flask routing, and b
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.x**
@@ -60,4 +61,10 @@ python weather.py mumbai
 
 ```bash
 python app.py
+```
+
+## 🧪 Run Tests
+
+```bash
+pytest -s
 ```
